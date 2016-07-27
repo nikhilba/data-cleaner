@@ -2,6 +2,7 @@
 This is a Python script for cleaning unstructured data.
 
 It takes a list of strings (Sentences/Words) as an input and performs following cleaning tasks:
+
 1. Convert list of sentences to a list of words
 2. Remove date & time
 3. Remove punctuations & numbers
